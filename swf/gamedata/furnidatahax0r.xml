@@ -1,0 +1,3873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<furnidata>
+<roomitemtypes>
+<!-- novos Hax0r -->
+<furnitype id="58104355" classname="hubba_drunki_hotelsouvinight">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_drunki_hotelsouvinight_name</name>
+		<description>hubba_drunki_hotelsouvinight_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104356" classname="hubba_drunki_lovegardn">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_drunki_lovegardn_name</name>
+		<description>hubba_drunki_lovegardn_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104357" classname="hubba_koi_bluefadedragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_koi_bluefadedragi_name</name>
+		<description>hubba_koi_bluefadedragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104358" classname="hubba_koi_greenfadedragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_koi_greenfadedragi_name</name>
+		<description>hubba_koi_greenfadedragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104359" classname="hubba_lizeng_jeongschirm">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_lizeng_jeongschirm_name</name>
+		<description>hubba_lizeng_jeongschirm_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104360" classname="hubba_lizeng_jeongsoda">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_lizeng_jeongsoda_name</name>
+		<description>hubba_lizeng_jeongsoda_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104361" classname="hubba_lizeng_kurbiscola">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_lizeng_kurbiscola_name</name>
+		<description>hubba_lizeng_kurbiscola_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104362" classname="hubba_meo_body">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_body_name</name>
+		<description>hubba_meo_body_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104363" classname="hubba_meo_magmanebli">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_magmanebli_name</name>
+		<description>hubba_meo_magmanebli_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104364" classname="hubba_meo_magmawaechter">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_magmawaechter_name</name>
+		<description>hubba_meo_magmawaechter_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104365" classname="hubba_meo_magmawiese">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_magmawiese_name</name>
+		<description>hubba_meo_magmawiese_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104366" classname="hubba_meo_planet">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_planet_name</name>
+		<description>hubba_meo_planet_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104367" classname="hubba_theconar_miniappletree">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_theconar_miniappletree_name</name>
+		<description>hubba_theconar_miniappletree_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104368" classname="hubba_theconar_minipeartree">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_theconar_minipeartree_name</name>
+		<description>hubba_theconar_minipeartree_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104369" classname="hubba_theconar_pinkrotlaser">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_theconar_pinkrotlaser_name</name>
+		<description>hubba_theconar_pinkrotlaser_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104370" classname="hw13_dragonlamp">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hw13_dragonlamp_name</name>
+		<description>hw13_dragonlamp_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104371" classname="leichensack_einkopf">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>leichensack_einkopf_name</name>
+		<description>leichensack_einkopf_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104372" classname="lion_dragonlamp">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>lion_dragonlamp_name</name>
+		<description>lion_dragonlamp_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104373" classname="lion_icecream">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>lion_icecream_name</name>
+		<description>lion_icecream_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104374" classname="lion_sofa">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>lion_sofa_name</name>
+		<description>lion_sofa_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104375" classname="nesa_habboweenicecream_v2">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>nesa_habboweenicecream_v2_name</name>
+		<description>nesa_habboweenicecream_v2_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104376" classname="nft_c22_metakeyhologram">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>nft_c22_metakeyhologram_name</name>
+		<description>nft_c22_metakeyhologram_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104377" classname="nft_c22_metams_easel">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>nft_c22_metams_easel_name</name>
+		<description>nft_c22_metams_easel_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104378" classname="nft_c22_met_ams">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>nft_c22_met_ams_name</name>
+		<description>nft_c22_met_ams_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104379" classname="pruplekissenraydn">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>pruplekissenraydn_name</name>
+		<description>pruplekissenraydn_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104380" classname="raben_fan">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>raben_fan_name</name>
+		<description>raben_fan_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104381" classname="rare_c15_holysword">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_c15_holysword_name</name>
+		<description>rare_c15_holysword_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104382" classname="rare_himmelsdracheblau">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_himmelsdracheblau_name</name>
+		<description>rare_himmelsdracheblau_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104383" classname="rare_youtubeaward_bronze">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_youtubeaward_bronze_name</name>
+		<description>rare_youtubeaward_bronze_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104384" classname="rare_youtubeaward_gold">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_youtubeaward_gold_name</name>
+		<description>rare_youtubeaward_gold_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104385" classname="rare_youtubeaward_silver">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_youtubeaward_silver_name</name>
+		<description>rare_youtubeaward_silver_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104386" classname="rf_cal">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rf_cal_name</name>
+		<description>rf_cal_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104387" classname="sofa_panda">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>sofa_panda_name</name>
+		<description>sofa_panda_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104388" classname="st_fledermausdrache">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_fledermausdrache_name</name>
+		<description>st_fledermausdrache_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104389" classname="st_freiheitsstatuedrachenlampe">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_freiheitsstatuedrachenlampe_name</name>
+		<description>st_freiheitsstatuedrachenlampe_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104390" classname="st_fruelingsdrachenlampe">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_fruelingsdrachenlampe_name</name>
+		<description>st_fruelingsdrachenlampe_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104391" classname="st_hausdesgeldes_venti_exoq">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hausdesgeldes_venti_exoq_name</name>
+		<description>st_hausdesgeldes_venti_exoq_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104392" classname="st_hausdesgeldes_voodoo_exoq">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hausdesgeldes_voodoo_exoq_name</name>
+		<description>st_hausdesgeldes_voodoo_exoq_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104393" classname="st_hearteisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hearteisi_name</name>
+		<description>st_hearteisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104394" classname="st_hige_eis">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hige_eis_name</name>
+		<description>st_hige_eis_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104395" classname="st_hiwi_eis">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hiwi_eis_name</name>
+		<description>st_hiwi_eis_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104396" classname="st_iceddragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_iceddragi_name</name>
+		<description>st_iceddragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104397" classname="st_Labor_Drache_firstlukas">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_Labor_Drache_firstlukas_name</name>
+		<description>st_Labor_Drache_firstlukas_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104398" classname="st_Maurer_Drache_firstlukas">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_Maurer_Drache_firstlukas_name</name>
+		<description>st_Maurer_Drache_firstlukas_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104399" classname="suncity_drago">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>suncity_drago_name</name>
+		<description>suncity_drago_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104400" classname="throne_bed">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>throne_bed_name</name>
+		<description>throne_bed_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104401" classname="waechter_hellfire">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>waechter_hellfire_name</name>
+		<description>waechter_hellfire_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="58104402" classname="xmaaaaas_hotel">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>xmaaaaas_hotel_name</name>
+		<description>xmaaaaas_hotel_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+
+<furnitype id="72287388" classname="hubba_koi_redfadedragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_koi_redfadedragi_name</name>
+		<description>hubba_koi_redfadedragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287389" classname="hubba_lizeng_jeongdragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_lizeng_jeongdragi_name</name>
+		<description>hubba_lizeng_jeongdragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287390" classname="hubba_lizeng_jeongeisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_lizeng_jeongeisi_name</name>
+		<description>hubba_lizeng_jeongeisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287391" classname="hubba_lizeng_jeongkissen">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_lizeng_jeongkissen_name</name>
+		<description>hubba_lizeng_jeongkissen_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287392" classname="hubba_lizeng_jeonglaser">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_lizeng_jeonglaser_name</name>
+		<description>hubba_lizeng_jeonglaser_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287393" classname="hubba_lizeng_jeongsaeule">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_lizeng_jeongsaeule_name</name>
+		<description>hubba_lizeng_jeongsaeule_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287394" classname="hubba_meo_fuss">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_fuss_name</name>
+		<description>hubba_meo_fuss_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287395" classname="hubba_meo_magmacola">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_magmacola_name</name>
+		<description>hubba_meo_magmacola_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287396" classname="hubba_meo_magmadrache">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_magmadrache_name</name>
+		<description>hubba_meo_magmadrache_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287397" classname="hubba_meo_magmadrachenbru">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_magmadrachenbru_name</name>
+		<description>hubba_meo_magmadrachenbru_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287398" classname="hubba_meo_magmaei">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_magmaei_name</name>
+		<description>hubba_meo_magmaei_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287399" classname="hubba_meo_magmaeisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_meo_magmaeisi_name</name>
+		<description>hubba_meo_magmaeisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287400" classname="hubba_pazo_corsabludrache">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_pazo_corsabludrache_name</name>
+		<description>hubba_pazo_corsabludrache_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287401" classname="hubba_pazo_lichtblauedragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_pazo_lichtblauedragi_name</name>
+		<description>hubba_pazo_lichtblauedragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287402" classname="hubba_pazo_violadrache">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_pazo_violadrache_name</name>
+		<description>hubba_pazo_violadrache_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287403" classname="hubba_theconar_aquablaulaser">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_theconar_aquablaulaser_name</name>
+		<description>hubba_theconar_aquablaulaser_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287404" classname="hubba_theconar_greenbluedrag">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_theconar_greenbluedrag_name</name>
+		<description>hubba_theconar_greenbluedrag_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287405" classname="hubba_theconar_grunlaser">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_theconar_grunlaser_name</name>
+		<description>hubba_theconar_grunlaser_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287406" classname="hween19_dragon">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hween19_dragon_name</name>
+		<description>hween19_dragon_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287407" classname="ihubba_jojo_derschreieisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>ihubba_jojo_derschreieisi_name</name>
+		<description>ihubba_jojo_derschreieisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287408" classname="ihubba_jojo_gelbewolkendragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>ihubba_jojo_gelbewolkendragi_name</name>
+		<description>ihubba_jojo_gelbewolkendragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287409" classname="ihubba_jojo_kirschbaum">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>ihubba_jojo_kirschbaum_name</name>
+		<description>ihubba_jojo_kirschbaum_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287410" classname="ken_kaneki_riesen_dragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>ken_kaneki_riesen_dragi_name</name>
+		<description>ken_kaneki_riesen_dragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287411" classname="LegendOfZelda_Dragon2">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>LegendOfZelda_Dragon2_name</name>
+		<description>LegendOfZelda_Dragon2_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287412" classname="lion_vdoll">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>lion_vdoll_name</name>
+		<description>lion_vdoll_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287413" classname="lonelyvibes_dragonlamp_ekf">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>lonelyvibes_dragonlamp_ekf_name</name>
+		<description>lonelyvibes_dragonlamp_ekf_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287414" classname="lulats_winzling">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>lulats_winzling_name</name>
+		<description>lulats_winzling_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287415" classname="milka_koee">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>milka_koee_name</name>
+		<description>milka_koee_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287416" classname="mini_raven_vdoll">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>mini_raven_vdoll_name</name>
+		<description>mini_raven_vdoll_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287417" classname="minter_mini_kirschbaum_xanuu">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>minter_mini_kirschbaum_xanuu_name</name>
+		<description>minter_mini_kirschbaum_xanuu_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287418" classname="nft_c22_mvhqchair">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>nft_c22_mvhqchair_name</name>
+		<description>nft_c22_mvhqchair_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287419" classname="nft_h22_bday_diamondhand">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>nft_h22_bday_diamondhand_name</name>
+		<description>nft_h22_bday_diamondhand_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287420" classname="nitro_drachenlampe">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>nitro_drachenlampe_name</name>
+		<description>nitro_drachenlampe_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287421" classname="pinker_mini_kirschbaum_xanuu">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>pinker_mini_kirschbaum_xanuu_name</name>
+		<description>pinker_mini_kirschbaum_xanuu_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287422" classname="Pokemon_Draak">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>Pokemon_Draak_name</name>
+		<description>Pokemon_Draak_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287423" classname="poster2011">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>poster2011_name</name>
+		<description>poster2011_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287424" classname="rare_himmelsdrachegruen">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_himmelsdrachegruen_name</name>
+		<description>rare_himmelsdrachegruen_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287425" classname="rare_himmelsdrachelila">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_himmelsdrachelila_name</name>
+		<description>rare_himmelsdrachelila_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287426" classname="rare_himmelsdracheorange">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_himmelsdracheorange_name</name>
+		<description>rare_himmelsdracheorange_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287427" classname="rare_himmelsdracherot">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_himmelsdracherot_name</name>
+		<description>rare_himmelsdracherot_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287428" classname="rare_podestry_red">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rare_podestry_red_name</name>
+		<description>rare_podestry_red_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287429" classname="Rare_Rosa_Drachenlampe">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>Rare_Rosa_Drachenlampe_name</name>
+		<description>Rare_Rosa_Drachenlampe_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287430" classname="rf_pat">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rf_pat_name</name>
+		<description>rf_pat_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287431" classname="rip_flash">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>rip_flash_name</name>
+		<description>rip_flash_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287432" classname="royalblauer_kirschbaum_xanuu">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>royalblauer_kirschbaum_xanuu_name</name>
+		<description>royalblauer_kirschbaum_xanuu_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287433" classname="schatten_rozen_ija">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>schatten_rozen_ija_name</name>
+		<description>schatten_rozen_ija_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287434" classname="skyl_beehive_bulb">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>skyl_beehive_bulb_name</name>
+		<description>skyl_beehive_bulb_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287435" classname="Small_RICK_by_chad">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>Small_RICK_by_chad_name</name>
+		<description>Small_RICK_by_chad_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287436" classname="starg_throne">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>starg_throne_name</name>
+		<description>starg_throne_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287437" classname="st_gr_tendrils_dragon_exoquate">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_gr_tendrils_dragon_exoquate_name</name>
+		<description>st_gr_tendrils_dragon_exoquate_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287438" classname="st_hausdesgeldes_eisi_exoquate">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hausdesgeldes_eisi_exoquate_name</name>
+		<description>st_hausdesgeldes_eisi_exoquate_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287439" classname="st_hausdesgeldes_lolly_exoq">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hausdesgeldes_lolly_exoq_name</name>
+		<description>st_hausdesgeldes_lolly_exoq_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287440" classname="st_hausdesgeldes_saeule">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hausdesgeldes_saeule_name</name>
+		<description>st_hausdesgeldes_saeule_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287441" classname="st_hausdesgeldes_shisha_exoq">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hausdesgeldes_shisha_exoq_name</name>
+		<description>st_hausdesgeldes_shisha_exoq_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287442" classname="st_hausdesgeldes_thron_exoq">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_hausdesgeldes_thron_exoq_name</name>
+		<description>st_hausdesgeldes_thron_exoq_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287443" classname="st_higr_eis">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_higr_eis_name</name>
+		<description>st_higr_eis_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287444" classname="st_himmels_drache_exoquate">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_himmels_drache_exoquate_name</name>
+		<description>st_himmels_drache_exoquate_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287445" classname="st_himmels_eisi_exoquate">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_himmels_eisi_exoquate_name</name>
+		<description>st_himmels_eisi_exoquate_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287446" classname="st_himmels_ventilator_exoquate">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_himmels_ventilator_exoquate_name</name>
+		<description>st_himmels_ventilator_exoquate_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287447" classname="st_himmels_voodoo_exoquate">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_himmels_voodoo_exoquate_name</name>
+		<description>st_himmels_voodoo_exoquate_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287448" classname="st_himmels_waechter_exoquate">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_himmels_waechter_exoquate_name</name>
+		<description>st_himmels_waechter_exoquate_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287449" classname="st_monddrache_exoquate">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_monddrache_exoquate_name</name>
+		<description>st_monddrache_exoquate_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287450" classname="st_poisondracherot">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_poisondracherot_name</name>
+		<description>st_poisondracherot_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287451" classname="st_rehdrache_exsudat">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_rehdrache_exsudat_name</name>
+		<description>st_rehdrache_exsudat_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287452" classname="st_Tierarzt_Dragi_firstlukas">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_Tierarzt_Dragi_firstlukas_name</name>
+		<description>st_Tierarzt_Dragi_firstlukas_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="72287453" classname="st_weineisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>st_weineisi_name</name>
+		<description>st_weineisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569250" classname="amazon_hologram_ekf">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>amazon_hologram_ekf_name</name>
+		<description>amazon_hologram_ekf_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569251" classname="AmericaChavez_voodoo">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>AmericaChavez_voodoo_name</name>
+		<description>AmericaChavez_voodoo_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569252" classname="anthn_cherry">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>anthn_cherry_name</name>
+		<description>anthn_cherry_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569253" classname="auro_beehive_bulb">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>auro_beehive_bulb_name</name>
+		<description>auro_beehive_bulb_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569254" classname="bday17_drachenlampe">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>bday17_drachenlampe_name</name>
+		<description>bday17_drachenlampe_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569255" classname="Bonnie_Harkness">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>Bonnie_Harkness_name</name>
+		<description>Bonnie_Harkness_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569256" classname="bsstonino_dragoshangrila">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>bsstonino_dragoshangrila_name</name>
+		<description>bsstonino_dragoshangrila_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569257" classname="byeww_hend">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>byeww_hend_name</name>
+		<description>byeww_hend_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569258" classname="byeww_hxnd">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>byeww_hxnd_name</name>
+		<description>byeww_hxnd_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569259" classname="byeww_hynd">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>byeww_hynd_name</name>
+		<description>byeww_hynd_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569260" classname="byeww_hznd">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>byeww_hznd_name</name>
+		<description>byeww_hznd_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569261" classname="caramellbrown_dragonlamp">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>caramellbrown_dragonlamp_name</name>
+		<description>caramellbrown_dragonlamp_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569262" classname="CF_75000_xmascointree">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>CF_75000_xmascointree_name</name>
+		<description>CF_75000_xmascointree_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569263" classname="chest_newsevent">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>chest_newsevent_name</name>
+		<description>chest_newsevent_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569264" classname="Coe_Blowkaan_Unicorn_Dragon">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>Coe_Blowkaan_Unicorn_Dragon_name</name>
+		<description>Coe_Blowkaan_Unicorn_Dragon_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569265" classname="croxx_cherry">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>croxx_cherry_name</name>
+		<description>croxx_cherry_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569266" classname="death_kissen">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>death_kissen_name</name>
+		<description>death_kissen_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569267" classname="DoctorStrange_saeule">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>DoctorStrange_saeule_name</name>
+		<description>DoctorStrange_saeule_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569268" classname="drachenlampe_aurora_drache">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>drachenlampe_aurora_drache_name</name>
+		<description>drachenlampe_aurora_drache_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569269" classname="dragon_ScarletWitch">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>dragon_ScarletWitch_name</name>
+		<description>dragon_ScarletWitch_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569270" classname="drag_fountin">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>drag_fountin_name</name>
+		<description>drag_fountin_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569271" classname="ducky">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>ducky_name</name>
+		<description>ducky_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569272" classname="fada_maximoffHARKNESS">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>fada_maximoffHARKNESS_name</name>
+		<description>fada_maximoffHARKNESS_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569273" classname="glitch_redshisha">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>glitch_redshisha_name</name>
+		<description>glitch_redshisha_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569274" classname="greennew17_dragonlamp">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>greennew17_dragonlamp_name</name>
+		<description>greennew17_dragonlamp_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569275" classname="hbfvr_cherry">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hbfvr_cherry_name</name>
+		<description>hbfvr_cherry_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569276" classname="hellf_cherry">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hellf_cherry_name</name>
+		<description>hellf_cherry_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569277" classname="hellgelb_dragonlamp">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hellgelb_dragonlamp_name</name>
+		<description>hellgelb_dragonlamp_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569278" classname="hf_vany_vaneventi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hf_vany_vaneventi_name</name>
+		<description>hf_vany_vaneventi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569279" classname="hm_alp_eternityandroid">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_eternityandroid_name</name>
+		<description>hm_alp_eternityandroid_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569280" classname="hm_alp_eternitybigben">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_eternitybigben_name</name>
+		<description>hm_alp_eternitybigben_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569281" classname="hm_alp_eternitybuch">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_eternitybuch_name</name>
+		<description>hm_alp_eternitybuch_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569282" classname="hm_alp_eternitychupa">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_eternitychupa_name</name>
+		<description>hm_alp_eternitychupa_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569283" classname="hm_alp_eternitycola">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_eternitycola_name</name>
+		<description>hm_alp_eternitycola_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569284" classname="hm_alp_eternityeisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_eternityeisi_name</name>
+		<description>hm_alp_eternityeisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569285" classname="hm_alp_eternitylaser">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_eternitylaser_name</name>
+		<description>hm_alp_eternitylaser_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569286" classname="hm_alp_eternityrose">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_eternityrose_name</name>
+		<description>hm_alp_eternityrose_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569287" classname="hm_alp_futurebigben">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_futurebigben_name</name>
+		<description>hm_alp_futurebigben_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569288" classname="hm_alp_lostolacebigben (1)">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_lostolacebigben (1)_name</name>
+		<description>hm_alp_lostolacebigben (1)_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569289" classname="hm_alp_lostolacebigben">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hm_alp_lostolacebigben_name</name>
+		<description>hm_alp_lostolacebigben_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569290" classname="hubba_439_nebuladragi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_439_nebuladragi_name</name>
+		<description>hubba_439_nebuladragi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569291" classname="hubba_439_nebulaeisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_439_nebulaeisi_name</name>
+		<description>hubba_439_nebulaeisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569292" classname="hubba_alp_cyb3berpunkeisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3berpunkeisi_name</name>
+		<description>hubba_alp_cyb3berpunkeisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569293" classname="hubba_alp_cyb3rpunkampel">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunkampel_name</name>
+		<description>hubba_alp_cyb3rpunkampel_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569294" classname="hubba_alp_cyb3rpunkautomat">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunkautomat_name</name>
+		<description>hubba_alp_cyb3rpunkautomat_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569295" classname="hubba_alp_cyb3rpunkbigben">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunkbigben_name</name>
+		<description>hubba_alp_cyb3rpunkbigben_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569296" classname="hubba_alp_cyb3rpunkbuch">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunkbuch_name</name>
+		<description>hubba_alp_cyb3rpunkbuch_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569297" classname="hubba_alp_cyb3rpunkchupa">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunkchupa_name</name>
+		<description>hubba_alp_cyb3rpunkchupa_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569298" classname="hubba_alp_cyb3rpunkcola">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunkcola_name</name>
+		<description>hubba_alp_cyb3rpunkcola_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569299" classname="hubba_alp_cyb3rpunkdrache">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunkdrache_name</name>
+		<description>hubba_alp_cyb3rpunkdrache_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569300" classname="hubba_alp_cyb3rpunkrose">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunkrose_name</name>
+		<description>hubba_alp_cyb3rpunkrose_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569301" classname="hubba_alp_cyb3rpunksoda">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_cyb3rpunksoda_name</name>
+		<description>hubba_alp_cyb3rpunksoda_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569302" classname="hubba_alp_gbbigben">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_gbbigben_name</name>
+		<description>hubba_alp_gbbigben_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569303" classname="hubba_alp_gbchupa">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_gbchupa_name</name>
+		<description>hubba_alp_gbchupa_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569304" classname="hubba_alp_gbcola">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_gbcola_name</name>
+		<description>hubba_alp_gbcola_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569305" classname="hubba_alp_gbdrache">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_gbdrache_name</name>
+		<description>hubba_alp_gbdrache_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569306" classname="hubba_alp_gbeismaschine">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_gbeismaschine_name</name>
+		<description>hubba_alp_gbeismaschine_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569307" classname="hubba_alp_gbkissen">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_gbkissen_name</name>
+		<description>hubba_alp_gbkissen_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569308" classname="hubba_alp_gbminikirschbaum">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_gbminikirschbaum_name</name>
+		<description>hubba_alp_gbminikirschbaum_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569309" classname="hubba_alp_prinzvoodoo">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_prinzvoodoo_name</name>
+		<description>hubba_alp_prinzvoodoo_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569310" classname="hubba_alp_utopiadrache">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_utopiadrache_name</name>
+		<description>hubba_alp_utopiadrache_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569311" classname="hubba_alp_utopiaeisi">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_utopiaeisi_name</name>
+		<description>hubba_alp_utopiaeisi_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569312" classname="hubba_alp_utopiahammer">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_utopiahammer_name</name>
+		<description>hubba_alp_utopiahammer_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569313" classname="hubba_alp_utopianebli">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_utopianebli_name</name>
+		<description>hubba_alp_utopianebli_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569314" classname="hubba_alp_utopiavogel">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_alp_utopiavogel_name</name>
+		<description>hubba_alp_utopiavogel_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569315" classname="hubba_broruffy_neonblue">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_broruffy_neonblue_name</name>
+		<description>hubba_broruffy_neonblue_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569316" classname="hubba_broruffy_neongreen">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_broruffy_neongreen_name</name>
+		<description>hubba_broruffy_neongreen_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569317" classname="hubba_broruffy_neonpink">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_broruffy_neonpink_name</name>
+		<description>hubba_broruffy_neonpink_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569318" classname="hubba_broruffy_neonyellow">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_broruffy_neonyellow_name</name>
+		<description>hubba_broruffy_neonyellow_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+<furnitype id="96569319" classname="hubba_drunki_fadeholo">
+		<revision>59005</revision>
+		<defaultdir>0</defaultdir>
+		<xdim>1</xdim>
+		<ydim>1</ydim>
+		<partcolors />
+		<name>hubba_drunki_fadeholo_name</name>
+		<description>hubba_drunki_fadeholo_desc</description>
+		<adurl></adurl>
+		<offerid>-1</offerid>
+		<buyout>0</buyout>
+		<rentofferid>-1</rentofferid>
+		<rentbuyout>0</rentbuyout>
+		<bc>0</bc>
+		<excludeddynamic>0</excludeddynamic>
+		<customparams></customparams>
+		<specialtype>0</specialtype>
+		<canstandon>0</canstandon>
+		<cansiton>0</cansiton>
+		<canlayon>0</canlayon>
+</furnitype>
+
+<!-- novos Hax0r -->
+<wallitemtypes>
+</wallitemtypes></furnidata>

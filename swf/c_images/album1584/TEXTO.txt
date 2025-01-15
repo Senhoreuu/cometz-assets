@@ -1,0 +1,104 @@
+CÓDIGO: 50HIS
+NOMBRE: 50 usuarios conectados
+descripción: Día a día sumamos más
+
+CÓDIGO: 52KHIS
+NOMBRE:Champán
+Descripción: Destapen las botellas, Habbis esta inaugurado.
+
+CÓDIGO: 100HIS
+NOMBRE: ¡Somos 100 usuarios en Habbis!
+descripción: Estuve en el gran acontecimiento
+
+CÓDIGO: ADMHIS
+NOMBRE: Administrador
+descripción: Placa de Administrador
+
+CÓDIGO: AGMHIS
+NOMBRE: Aspirante a Game master
+descripción: Estoy aspirando para ser un gran GM
+
+CÓDIGO: BAWHIS
+NOMBRE: Room Buldier
+descripción: Construyo las mejores salas del hotel
+
+CÓDIGO: BNHIS
+NOMBRE: Inauguración Habbis 2020
+descripción: ¡Asistí a este gran acontecimiento!
+
+CÓDIGO: CEOHIS
+NOMBRE: CEO
+descripción: La corona es mas pesada de lo que creen
+
+CÓDIGO: DJHIS
+NOMBRE: Dj Habbis
+descripción: Encargado de poner ambiente y musica en el hotel
+
+
+CÓDIGO: DSHIS
+NOMBRE: Diseñador Habbis
+descripción: La imaginación es más importante que el conocimiento.
+
+CÓDIGO: ECHIS
+NOMBRE: Encargado de Eventos y campañas del hotel
+descripción: Soy el mejor en mi trabajo
+
+CÓDIGO: F6HIS         
+NOMBRE: Música en mis venas
+Descripción: Las mejores playlist están aquí
+
+CÓDIGO: FUNHIS
+NOMBRE: Dueño de Habbis
+descripción: Cargando 86%...
+
+CÓDIGO: GGHIS
+NOMBRE: Atención y soporte
+descripción: Soy un Habbis guía dorado
+
+CÓDIGO: GMHIS
+NOMBRE: Game Master
+Encargados de entretenimiento
+
+CÓDIGO: GSHIS
+NOMBRE: Atención y soporte
+Soy un habbis guía plata
+
+CÓDIGO: I5HIS
+NOMBRE: Escuchando la radio a máxima potencia.
+descripción: Soy uno mas de los que sabemos de música
+
+CÓDIGO: IN0HIS
+NOMBRE: Infobus                                     
+Descripción: La información verídica
+
+CÓDIGO: IN1HIS
+NOMBRE: Charla infobus
+descripción: Me informo de los mejores temas en el infobus
+
+CÓDIGO: IT6HIS    
+NOMBRE: Gorro de fiesta
+Descripción: La mejor fiesta está en Habbis
+
+CÓDIGO: MNGHIS
+NOMBRE: Hotel Manager
+Descripción: Manager
+
+CÓDIGO: MODHIS
+NOMBRE: Moderador
+Descripción: Mantengo el orden y tu segurida
+
+CÓDIGO: P8HIS        
+NOMBRE: Llave otoñal
+Descripción:  Pase el gran laberinto otoñal
+
+CÓDIGO: PBLHIS
+NOMBRE: Publicista Oficial
+Descripción: Mi spam es el mejor
+
+CÓDIGO: RGLHIS            
+NOMBRE: Regalo Habbis
+Descripción:  Es un regalo que formes parte de esta comunidad
+
+CÓDIGO: U6HIS                 
+NOMBRE:  ¡Esto es de celebrar!
+Descripción:   Iniciamos este proyecto con el pie derecho

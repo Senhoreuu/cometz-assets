@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^notifications/fig/(.*).png$ notifications/user.php?fig=$1
+RewriteRule ^notifications/event/(.*).png$ notifications/event.php?fig=$1

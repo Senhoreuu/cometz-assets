@@ -1,0 +1,11 @@
+﻿Bem-vindo(a) ao Hotel!
+<br>
+<div style="color: #fff;">
+<img style="width: 100%;height: 100%;" src="https://i.imgur.com/D5ZEHHT.png" height="4680" hspace="1" vspace="1"/>
+<font size="12px"><p></p><p style="color: #666666; font-size: 27px; margin-top: -18px; text-align: center; padding-bottom: 7px; border-bottom: 2px dashed #00000012; font-weight: 500;">Bem-vindo(a) ao Habblet! </p>
+<p style="font-size: 14px; font-weight: 500; text-align: center; color: #777777;">Esperamos que você se divirta no Hotel.<br>
+Faça novos amigos, construa quartos, participe de ganhe eventos e obtenha prêmios incríveis!<br><br>
+Junte-se á RPGs e quartos Oficializados pela Equipe, fique on-line para receber Diamantes e Moedas para comprar Raros na Loja! </p><p> </p><p> 
+</p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>
+</p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>
+</font><p><font size="-1"> </font></p></div>
